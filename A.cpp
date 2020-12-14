@@ -8,5 +8,5 @@ int main() {
   int a, b, c, d;
   cin >> a >> b >> c >> d;
   cout << min({a, b, c, d}) << '\n';
-  return 1;
+  return 0;
 }
